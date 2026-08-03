@@ -1,0 +1,9 @@
+{
+  "versionCode": 58,
+  "versionName": "12.0",
+  "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v12.0/app-debug.apk",
+  "desktopVersionCode": 58,
+  "desktopVersionName": "12.0",
+  "desktopUrl": "https://github.com/italloSoares/chaveiro/releases/download/v12.0/ChaveiroMedeiros-12.0.0.msi",
+  "releaseNotes": "- correção no cupom e validade de orçamento"
+}
