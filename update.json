@@ -1,9 +1,9 @@
 {
-  "versionCode": 58,
-  "versionName": "12.0",
-  "apkUrl": "https://github.com/italloSoares/chaveiro/releases/download/v12.0/app-debug.apk",
-  "desktopVersionCode": 58,
-  "desktopVersionName": "12.0",
-  "desktopUrl": "https://github.com/italloSoares/chaveiro/releases/download/v12.0/ChaveiroMedeiros-12.0.0.msi",
+  "versionCode": 60,
+  "versionName": "13.0",
+  "apkUrl": "https://github.com/italloSoares/gestaodenegocio/releases/download/v13.0/app-debug.apk",
+  "desktopVersionCode": 60,
+  "desktopVersionName": "13.0",
+  "desktopUrl": "https://github.com/italloSoares/gestaodenegocio/releases/download/v13.0/GestaoDeNegocio-13.0.0.msi",
   "releaseNotes": "- correção no cupom e validade de orçamento"
 }
