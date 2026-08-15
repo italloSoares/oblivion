@@ -1,9 +1,9 @@
 {
   "versionCode": 60,
   "versionName": "13.0",
-  "apkUrl": "https://github.com/italloSoares/gestaodenegocio/releases/download/v13.0/app-debug.apk",
+  "apkUrl": "https://github.com/italloSoares/oblivion/releases/download/v13.0/app-debug.apk",
   "desktopVersionCode": 60,
   "desktopVersionName": "13.0",
-  "desktopUrl": "https://github.com/italloSoares/gestaodenegocio/releases/download/v13.0/GestaoDeNegocio-13.0.0.msi",
+  "desktopUrl": "https://github.com/italloSoares/oblivion/releases/download/v13.0/Oblivion-13.0.0.msi",
   "releaseNotes": "- correção no cupom e validade de orçamento"
 }
